@@ -1,5 +1,6 @@
 # Server Stats
-This is the first project from [Roadmap.sh Projects](https://roadmap.sh/projects/server-stats)
+This is the first project from [Roadmap.sh Projects](https://roadmap.sh/projects/server-stats)<br
+
 Navigate to `server-stats` folder
 
 ```
